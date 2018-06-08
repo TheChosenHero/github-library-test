@@ -14,9 +14,6 @@ public class main {
 		
 		 * YO I JUST EDITED YOUR COMMENT BIIIIIITCH
 		 * 
-		 * 356u
-		 * 356u
-		 * heg
 		 * fsg
 		 * bd
 		 * gt
