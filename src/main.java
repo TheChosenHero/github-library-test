@@ -11,19 +11,7 @@ public class main {
 		/*this is a big test comment
 		 * asdhfkjasdjkfhasdf
 		 * asdf
-		 * asdf
-		 * asdf
-		 * asd
-		 * fas
-		 * dfsdfsdfdgd
-		 * he
-		 * yr
-		 * yw
-		 * h
-		 * fghb
-		 * 45
-		 * y
-		 * 
+		
 		 * YO I JUST EDITED YOUR COMMENT BIIIIIITCH
 		 * 
 		 * 356u
