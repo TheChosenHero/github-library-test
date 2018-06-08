@@ -16,9 +16,6 @@ public class main {
 		 * 
 		 * fsg
 		 * bd
-		 * gt
-		 * hy
-		 * i
 		 * i758
 		 * i65
 		 * 7865
